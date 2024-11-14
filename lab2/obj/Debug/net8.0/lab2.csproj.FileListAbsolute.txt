@@ -1,0 +1,14 @@
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.AssemblyInfoInputs.cache
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.AssemblyInfo.cs
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.csproj.CoreCompileInputs.cache
+F:\programowanie\ConsoleApp1\lab2\bin\Debug\net8.0\lab2.exe
+F:\programowanie\ConsoleApp1\lab2\bin\Debug\net8.0\lab2.deps.json
+F:\programowanie\ConsoleApp1\lab2\bin\Debug\net8.0\lab2.runtimeconfig.json
+F:\programowanie\ConsoleApp1\lab2\bin\Debug\net8.0\lab2.dll
+F:\programowanie\ConsoleApp1\lab2\bin\Debug\net8.0\lab2.pdb
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.dll
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\refint\lab2.dll
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.pdb
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
+F:\programowanie\ConsoleApp1\lab2\obj\Debug\net8.0\ref\lab2.dll
