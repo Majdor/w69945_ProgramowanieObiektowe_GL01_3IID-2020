@@ -1,0 +1,14 @@
+F:\lab 56\lab 56\lab 56\bin\Debug\net8.0\lab 56.exe
+F:\lab 56\lab 56\lab 56\bin\Debug\net8.0\lab 56.deps.json
+F:\lab 56\lab 56\lab 56\bin\Debug\net8.0\lab 56.runtimeconfig.json
+F:\lab 56\lab 56\lab 56\bin\Debug\net8.0\lab 56.dll
+F:\lab 56\lab 56\lab 56\bin\Debug\net8.0\lab 56.pdb
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.GeneratedMSBuildEditorConfig.editorconfig
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.AssemblyInfoInputs.cache
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.AssemblyInfo.cs
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.csproj.CoreCompileInputs.cache
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.dll
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\refint\lab 56.dll
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.pdb
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\lab 56.genruntimeconfig.cache
+F:\lab 56\lab 56\lab 56\obj\Debug\net8.0\ref\lab 56.dll
