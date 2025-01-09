@@ -1,0 +1,32 @@
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\appsettings.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\lab 7.exe
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\lab 7.deps.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\lab 7.runtimeconfig.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\lab 7.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\lab 7.pdb
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.csproj.AssemblyReference.cache
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.AssemblyInfoInputs.cache
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.AssemblyInfo.cs
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.csproj.CoreCompileInputs.cache
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets\msbuild.lab 7.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets\msbuild.build.lab 7.props
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lab 7.props
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lab 7.props
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\scopedcss\bundle\lab 7.styles.css
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.csproj.Up2Date
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\refint\lab 7.dll
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.pdb
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\lab 7.genruntimeconfig.cache
+C:\Users\w69945\source\repos\lab 7\lab 7\lab 7\obj\Debug\net8.0\ref\lab 7.dll
